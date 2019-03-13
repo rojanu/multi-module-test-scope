@@ -1,0 +1,15 @@
+target/
+.classpath
+.project
+.settings
+**/logs
+private_key
+public_key
+**/*.bkp
+
+/.idea/*
+*.iml
+env_variables.sh
+*.gz
+
+*.DS_Store
